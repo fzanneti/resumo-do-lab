@@ -1,6 +1,6 @@
 ## 🟦 **Benefícios da Nuvem Azure – Aula 1**
 
-🔹 **O que é a "nuvem"?**
+🔹 **O que é a "nuvem"?** 
 Imagine que você tem uma mochila muito especial.
 Essa mochila:
 Nunca enche;
@@ -9,7 +9,7 @@ E se você perder o celular ou o computador, ela continua guardando tudo lá dir
 Essa "mochila mágica" é como a nuvem.
 Agora, a Azure é uma dessas mochilas — feita pela Microsoft — só que não é pra brinquedos ou lanches. Ela guarda programas, arquivos, sites, sistemas e tudo que as empresas precisam para funcionar.
 
-🔹 **Exemplo para ficar mais claro:**
+🔹 **Exemplo para ficar mais claro:** 
 Vamos imaginar que uma loja vende brinquedos. Antes, ela precisava de:
 Um computador grande para guardar os dados dos clientes.
 Um técnico para cuidar disso.
