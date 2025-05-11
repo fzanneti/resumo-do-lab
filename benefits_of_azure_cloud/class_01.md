@@ -108,7 +108,7 @@ SLA (Service Level Agreement)	É uma promessa de que o serviço vai funcionar di
 99,9% de disponibilidade	Funciona quase o tempo todo! Só para de vez em quando, por um tempinho bem curto
 Reembolso	Se não funcionar como o prometido, você recebe um “dinheirinho de volta”
 
-## ✅ **Explicação Técnica e Profissional**
+## ✅ **Tópicos**
 
 🔹 **O que é SLA (Service Level Agreement)?**
 O SLA (Acordo de Nível de Serviço) é o compromisso formal da Microsoft com a disponibilidade dos seus serviços na Azure. Ele estabelece percentuais mínimos de tempo de funcionamento 
