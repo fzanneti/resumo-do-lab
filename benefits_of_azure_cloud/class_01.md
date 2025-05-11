@@ -85,7 +85,7 @@ serviço (SaaS), possibilitando que empresas hospedem aplicações, armazenem da
 > Benefício: Empresas podem inovar com análise preditiva, reconhecimento de imagem, voz, etc.
 > Recursos Azure: Cognitive Services, Azure Machine Learning, Synapse Analytics, Databricks on Azure.
 
-🔹 **Conclusão Profissional**
+🔹 **Conclusão**
 A adoção da nuvem Azure permite que empresas de qualquer porte modernizem seus sistemas, reduzam custos, melhorem sua segurança, e aumentem sua competitividade através da agilidade, 
 escalabilidade e inovação proporcionadas pelos serviços em nuvem.
 
