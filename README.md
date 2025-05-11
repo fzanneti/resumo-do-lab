@@ -1,6 +1,3 @@
-# resumo-do-lab
-Este repositório reúne os principais aprendizados adquiridos ao longo da realização do laboratório na DIO.
-
 # Introdução à Computação em Nuvem com Azure
 
 Este material é um guia simples e direto para quem está começando a estudar **computação em nuvem** com foco no **Microsoft Azure**. 
