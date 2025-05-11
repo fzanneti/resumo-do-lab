@@ -29,7 +29,7 @@ E ela só paga pelo que usa, como se fosse conta de luz.
 📈 Crescimento rápido	Se a empresa crescer, a nuvem cresce junto
 🔐 Segurança	Ela protege seus dados com "trancas invisíveis" muito fortes
 
-🔹 **O que é Microsoft Azure?**     
+🔹 **O que é Microsoft Azure?** 
 Microsoft Azure é uma plataforma de computação em nuvem fornecida pela Microsoft. Ela oferece uma infraestrutura completa como serviço (IaaS), plataforma como serviço (PaaS) e também software como 
 serviço (SaaS), possibilitando que empresas hospedem aplicações, armazenem dados, criem redes virtuais, executem máquinas virtuais, entre centenas de outros recursos.
 
