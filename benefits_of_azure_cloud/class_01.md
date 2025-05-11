@@ -1,6 +1,7 @@
 ## 🟦 **Benefícios da Nuvem Azure – Aula 1**
 
 🔹 **O que é a "nuvem"?** 
+
 Imagine que você tem uma mochila muito especial.
 Essa mochila:
 Nunca enche;
@@ -10,19 +11,22 @@ Essa "mochila mágica" é como a nuvem.
 Agora, a Azure é uma dessas mochilas — feita pela Microsoft — só que não é pra brinquedos ou lanches. Ela guarda programas, arquivos, sites, sistemas e tudo que as empresas precisam para funcionar.
 
 🔹 **Exemplo para ficar mais claro:** 
+
 Vamos imaginar que uma loja vende brinquedos. Antes, ela precisava de:
 Um computador grande para guardar os dados dos clientes.
 Um técnico para cuidar disso.
 Um lugar para esse computador (com ar-condicionado e tudo mais).
 E se caísse a energia? Ou pegasse fogo? Ela perdia tudo!
 
-🔹 **Agora, com a nuvem Azure:**
+🔹 **Agora, com a nuvem Azure:** 
+
 A loja pode guardar tudo lá dentro, bem seguro.
 Não precisa comprar um computador caro.
 Pode abrir novas lojas em qualquer lugar, porque todos acessam os dados da mesma nuvem.
 E ela só paga pelo que usa, como se fosse conta de luz.
 
-🔹 **Resumindo os principais benefícios:**
+🔹 **Resumindo os principais benefícios:** 
+
 📦 Armazena tudo	como um armário mágico, sempre disponível
 🌍 Acessível de qualquer lugar	Você pode usar o que está guardado de qualquer lugar do mundo
 💰 Economia	Não precisa comprar computadores potentes
@@ -30,6 +34,7 @@ E ela só paga pelo que usa, como se fosse conta de luz.
 🔐 Segurança	Ela protege seus dados com "trancas invisíveis" muito fortes
 
 🔹 **O que é Microsoft Azure?** 
+
 Microsoft Azure é uma plataforma de computação em nuvem fornecida pela Microsoft. Ela oferece uma infraestrutura completa como serviço (IaaS), plataforma como serviço (PaaS) e também software como 
 serviço (SaaS), possibilitando que empresas hospedem aplicações, armazenem dados, criem redes virtuais, executem máquinas virtuais, entre centenas de outros recursos.
 
@@ -85,7 +90,8 @@ serviço (SaaS), possibilitando que empresas hospedem aplicações, armazenem da
 > Benefício: Empresas podem inovar com análise preditiva, reconhecimento de imagem, voz, etc.
 > Recursos Azure: Cognitive Services, Azure Machine Learning, Synapse Analytics, Databricks on Azure.
 
-🔹 **Conclusão**
+🔹 **Conclusão** 
+
 A adoção da nuvem Azure permite que empresas de qualquer porte modernizem seus sistemas, reduzam custos, melhorem sua segurança, e aumentem sua competitividade através da agilidade, 
 escalabilidade e inovação proporcionadas pelos serviços em nuvem.
 
@@ -110,33 +116,39 @@ Reembolso	Se não funcionar como o prometido, você recebe um “dinheirinho de 
 
 ## ✅ **Tópicos**
 
-🔹 **O que é SLA (Service Level Agreement)?**
+🔹 **O que é SLA (Service Level Agreement)?** 
+
 O SLA (Acordo de Nível de Serviço) é o compromisso formal da Microsoft com a disponibilidade dos seus serviços na Azure. Ele estabelece percentuais mínimos de tempo de funcionamento 
 esperados para cada serviço e as condições de reembolso caso esses níveis não sejam atingidos.
 
-🔹 **Exemplos práticos de SLA na Azure:**
+🔹 **Exemplos práticos de SLA na Azure:** 
+
 Serviço	SLA Típico	Tempo Máximo de Inatividade Permitido por Mês
 Máquinas Virtuais com duas instâncias em Availability Set	99,95%	~22 minutos/mês
 Azure SQL Database	99,99%	~4 minutos/mês
 Azure App Services (em plano Standard ou superior)	99,95%	~22 minutos/mês
 
-🔹 **Benefícios práticos da alta disponibilidade via Azure**
+🔹 **Benefícios práticos da alta disponibilidade via Azure** 
+
 Alta Resiliência: Com Availability Zones e Availability Sets, é possível isolar falhas físicas e manter aplicações online mesmo se parte da infraestrutura falhar.
 Distribuição Global: Serviços podem ser replicados automaticamente entre regiões, garantindo continuidade.
 Escalabilidade com balanceamento de carga: Distribui requisições entre várias instâncias para não sobrecarregar.
 
-🔹 **Garantia Financeira (Service Credits)**
+🔹 **Garantia Financeira (Service Credits)** 
+
 Se a Microsoft não cumprir o SLA, o cliente pode solicitar créditos financeiros como compensação.
 Exemplo (Azure App Service):
 Disponibilidade < 99,95% e ≥ 99,0%: Crédito de 10%
 Disponibilidade < 99,0%: Crédito de 25%
 
-🔹 **Boas Práticas para Alta Disponibilidade**
+🔹 **Boas Práticas para Alta Disponibilidade** 
+
 Utilizar Availability Zones para redundância geográfica.
 Adotar Load Balancers para distribuir carga.
 Replicar dados em diferentes regiões com Geo-Redundant Storage (GRS).
 Configurar alertas com o Azure Monitor para detectar indisponibilidades.
 
-🔹 **Conclusão**
+🔹 **Conclusão** 
+
 A alta disponibilidade aliada a SLAs claros e garantidos torna o Azure uma plataforma confiável para aplicações críticas. Empresas podem operar com segurança, sabendo que caso a 
 plataforma falhe, elas têm reembolso financeiro garantido e mecanismos robustos para garantir a continuidade dos negócios.
