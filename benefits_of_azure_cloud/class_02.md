@@ -66,43 +66,43 @@ Imagina seu videogame online:
 ## ✅ **Custos e otimização relacionados à escalabilidade e elasticidade**  
 
 *Como antes, dividimos em duas partes:*  
-Imagina que você vai numa lanchonete.  
-Se você pagar por 10 hambúrgueres mas só comer 1, você perdeu dinheiro.  
-Agora imagina que você só paga pelos hambúrgueres que realmente come. Isso é muito melhor, né?  
-
+> - Imagina que você vai numa lanchonete.  
+> - Se você pagar por 10 hambúrgueres mas só comer 1, você perdeu dinheiro.  
+> - Agora imagina que você só paga pelos hambúrgueres que realmente come. Isso é muito melhor, né?  
+  
 *Na nuvem, é a mesma coisa:*  
 Com escalabilidade e elasticidade, você só paga pelos servidores que realmente usa.  
 Se tiver muita gente usando o sistema, ele "aumenta" e você paga mais.  
 Se tiver pouca gente, ele "diminui" e você economiza!  
 
-|Conceito	        |Explicação                                                        |
-|---|---|
-|Gastar menos	    |O sistema encolhe quando tem pouca gente, então você paga menos   |
-|Não desperdiçar	|Você só liga o que precisa, como apagar luz quando sai do quarto  | 
-|Automatizado	    |Tudo acontece sozinho, como uma luz com sensor que acende e apaga |
-
-## ✅ **Resumo técnico**  
-
-Relação direta entre escalabilidade e custos  
-Na nuvem, os recursos são medidos em tempo e uso.  
-Se você usar mais, paga mais. 
-Se usar menos, paga menos.  
-
-**Elasticidade** como estratégia de economia  
-**Autoescalonamento** ajusta os recursos automaticamente.  
+|Conceito|Explicação|
+|:---:|:---:|
+|Gastar menos|O sistema encolhe quando tem pouca gente, então você paga menos|
+|Não desperdiçar|Você só liga o que precisa, como apagar luz quando sai do quarto| 
+|Automatizado|Tudo acontece sozinho, como uma luz com sensor que acende e apaga|  
+  
+## ✅ **Resumo**  
+  
+Relação direta entre escalabilidade e custos:
+- Na nuvem, os recursos são medidos em tempo e uso.    
+- Se você usar mais, paga mais.  
+- Se usar menos, paga menos.  
+  
+> **Elasticidade** como estratégia de economia.  
+> **Autoescalonamento** ajusta os recursos automaticamente.  
   
 - Isso evita pagar por capacidade ociosa.  
 - Reduz o risco de superdimensionar servidores apenas “por precaução”.  
 
 **Ferramentas no Azure para otimização de custo**  
 
-|Recurso	                      |O que faz                                                                    |
-|---|---|
-|Azure Cost Management	        |Analisa o consumo e identifica onde é possível economizar                    |
-|Azure Advisor	                |Recomenda ações para melhorar performance e reduzir custos                   |
-|Reservas (Reserved Instances)	|Descontos de até 72% ao contratar uso de longo prazo para cargas previsíveis |
-|Autoescalonamento (Autoscale)	|Escala baseado em métricas como CPU, memória, número de requisições          |
-|Tags e Grupos de Recursos	    |Controla o gasto por equipe, projeto ou cliente                              |
+|Recurso|O que faz|
+|:---:|:---:|
+|Azure Cost Management	|Analisa o consumo e identifica onde é possível economizar|  
+|Azure Advisor|Recomenda ações para melhorar performance e reduzir custos|  
+|Reservas (Reserved Instances)|Descontos de até 72% ao contratar uso de longo prazo para cargas previsíveis|  
+|Autoescalonamento (Autoscale)|Escala baseado em métricas como CPU, memória, número de requisições          |  
+|Tags e Grupos de Recursos	|Controla o gasto por equipe, projeto ou cliente|  
 
 **Exemplo:**  
 
