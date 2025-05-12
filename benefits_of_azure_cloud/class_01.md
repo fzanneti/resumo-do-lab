@@ -124,7 +124,7 @@ esperados para cada serviço e as condições de reembolso caso esses níveis n�
 🔹 **Exemplos práticos de SLA na Azure:**  
   
 |Serviço|SLA Típico	Tempo Máximo de Inatividade|Permitido por Mês|
-|-:-|-:-|-:-|  
+|:---:|:---:|:---:|  
 |Máquinas Virtuais com duas instâncias em Availability Set|99,95%|~22 minutos/mês|  
 |Azure SQL Database|99,99%|~4 minutos/mês|
 |Azure App Services (em plano Standard ou superior)|99,95%|~22 minutos/mês|
