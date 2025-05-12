@@ -1,39 +1,39 @@
 ## ✅ **Benefícios da Nuvem Azure: Confiabilidade, Previsibilidade e Segurança**  
 
-Imagina que você vai guardar seus brinquedos, seus jogos e seus desenhos preferidos.  
-Você tem duas opções:  
-Deixar tudo jogado no chão do seu quarto (pode quebrar, alguém pode pegar ou sumir).  
-Ou guardar num cofre mágico, que:  
-Nunca perde nada  
-Avisa quando algo está errado  
-Tem supertrancas e vigilância 24h por dia  
-Esse cofre mágico é como a Nuvem Azure. Ela:  
-Guarda suas coisas com cuidado (confiabilidade)  
-Funciona direitinho todo dia, como um relógio (previsibilidade)  
-É superprotegida contra ladrões e desastres (segurança)  
-
-|Conceito	        |Explicação                                                |
-|---|---|
-|Confiabilidade   |Seus dados estão seguros, nunca somem ou quebram          |
-|Previsibilidade	|Tudo funciona no horário certo, como uma rotina bem feita |
-|Segurança	      |É como um cofre com senha, câmera e guarda-costas 24h     |
-
-**Exemplos:**
-
-Seus desenhos salvos no tablet estão sempre ali mesmo que ele desligue? Isso é confiável.  
-Você sabe que o jogo sempre carrega certinho? Isso é previsível.  
-Tem senha, proteção e bloqueio para ninguém roubar? Isso é seguro.  
-
-## 🔒 **Confiabilidade (Reliability)**
-
+Imagina que você vai guardar seus brinquedos, seus jogos e seus desenhos preferidos.    
+- Você tem duas opções:    
+> Deixar tudo jogado no chão do seu quarto (pode quebrar, alguém pode pegar ou sumir).  
+> Ou guardar num cofre mágico, que:  
+> - Nunca perde nada  
+> - Avisa quando algo está errado  
+> - Tem supertrancas e vigilância 24h por dia  
+> - Esse cofre mágico é como a Nuvem Azure. Ela:  
+> - Guarda suas coisas com cuidado (confiabilidade)  
+> - Funciona direitinho todo dia, como um relógio (previsibilidade)  
+> - É superprotegida contra ladrões e desastres (segurança)  
+  
+|Conceito|Explicação|
+|:---:|:---:|
+|Confiabilidade|Seus dados estão seguros, nunca somem ou quebram|
+|Previsibilidade|Tudo funciona no horário certo, como uma rotina bem feita|
+|Segurança|É como um cofre com senha, câmera e guarda-costas 24h|  
+  
+**Exemplos:**  
+  
+- Seus desenhos salvos no tablet estão sempre ali mesmo que ele desligue? Isso é confiável.    
+- Você sabe que o jogo sempre carrega certinho? Isso é previsível.  
+- Tem senha, proteção e bloqueio para ninguém roubar? Isso é seguro.  
+  
+## 🔒 **Confiabilidade (Reliability)**  
+  
 É a capacidade do Azure de manter os serviços e dados disponíveis, consistentes e funcionais, mesmo diante de falhas ou eventos inesperados.  
   
 Como o Azure garante isso:  
 - **Redundância geográfica:** dados replicados em várias regiões.  
 - **Backups automáticos:** recuperação de informações em caso de falhas.  
 - **Alta disponibilidade (HA):** sistemas desenhados para ter mínimo downtime.  
-- **Exemplo:** Azure Storage replica dados 3 vezes no mesmo datacenter (LRS) ou entre regiões (GRS).
-
+- **Exemplo:** Azure Storage replica dados 3 vezes no mesmo datacenter (LRS) ou entre regiões (GRS).  
+  
 ## 🧭 **Previsibilidade (Predictability)**  
 
 Refere-se à capacidade de entrega constante de desempenho, funcionamento e custos, com base em contratos, recursos provisionados e métricas.
