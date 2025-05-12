@@ -101,22 +101,22 @@ Relação direta entre escalabilidade e custos:
 |Azure Cost Management	|Analisa o consumo e identifica onde é possível economizar|  
 |Azure Advisor|Recomenda ações para melhorar performance e reduzir custos|  
 |Reservas (Reserved Instances)|Descontos de até 72% ao contratar uso de longo prazo para cargas previsíveis|  
-|Autoescalonamento (Autoscale)|Escala baseado em métricas como CPU, memória, número de requisições          |  
+|Autoescalonamento (Autoscale)|Escala baseado em métricas como CPU, memória, número de requisições|  
 |Tags e Grupos de Recursos	|Controla o gasto por equipe, projeto ou cliente|  
 
 **Exemplo:**  
 
 Uma startup roda seu site em Azure App Service com autoscale configurado:  
-Em dias normais, mantém 2 instâncias com custo mensal de R$ 300.  
-Em campanhas de marketing, escala para 10 instâncias, custando R$ 1.500 naquele período.  
+- Em dias normais, mantém 2 instâncias com custo mensal de R$ 300.  
+- Em campanhas de marketing, escala para 10 instâncias, custando R$ 1.500 naquele período.  
 Após a campanha, volta para 2 instâncias automaticamente.  
-Isso evita a necessidade de manter 10 instâncias rodando o mês todo, economizando R$ 1.200 por mês.  
-Boas práticas para controlar os custos na escalabilidade.  
-Configure limites máximos no autoscale para evitar crescimento descontrolado.  
-Use alertas de orçamento para ser notificado antes de estourar gastos.  
-Revise logs e métricas periodicamente para ajustar regras de escalabilidade.
-
+- Isso evita a necessidade de manter 10 instâncias rodando o mês todo, economizando R$ 1.200 por mês.   
+- Boas práticas para controlar os custos na escalabilidade.  
+- Configure limites máximos no autoscale para evitar crescimento descontrolado.  
+- Use alertas de orçamento para ser notificado antes de estourar gastos.  
+- Revise logs e métricas periodicamente para ajustar regras de escalabilidade.  
+  
 **Conclusão:**  
-
+  
 A escalabilidade e elasticidade não só garantem performance e estabilidade, como são ferramentas estratégicas para a eficiência financeira na nuvem.   
 Utilizadas corretamente, permitem que a empresa pague exatamente pelo que precisa, no momento certo, sem desperdício.
