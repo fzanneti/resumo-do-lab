@@ -20,7 +20,7 @@ A Azure faz a mesma coisa com:
 |:---:|:---:|
 |Governança|As regrinhas que dizem o que pode ou não, como um combinado|
 |Gerenciabilidade|O jeito de ver tudo funcionando e arrumar bagunças, como um painel de controle|
-  
+
 Exemplo:
 > - *Se você só pode brincar 1 hora no videogame, isso é governança.*
 > - *Se você olha o relógio e anota quanto tempo já jogou, isso é gerenciabilidade.*
