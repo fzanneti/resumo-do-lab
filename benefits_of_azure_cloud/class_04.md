@@ -41,50 +41,36 @@ Exemplo real:
 
 **2. Gerenciabilidade na Nuvem Azure**  
   
-Refere-se à capacidade de monitorar, automatizar e controlar todos os serviços e recursos da nuvem.
-
+Refere-se à capacidade de monitorar, automatizar e controlar todos os serviços e recursos da nuvem.  
+  
 Ferramentas e funcionalidades:
-Azure Monitor: Coleta métricas, logs e envia alertas (ex: uso de CPU, falhas).
+- **Azure Monitor:** Coleta métricas, logs e envia alertas (ex: uso de CPU, falhas).
+- **Azure Log Analytics:** Analisa dados dos logs para encontrar problemas ou comportamentos.
+- **Azure Automation:** Executa tarefas repetitivas automaticamente (ex: desligar VMs à noite).
+- **Azure Advisor:** Sugestões automáticas para melhorar performance, segurança e reduzir custos.
+- **Azure Cost Management + Billing:** Acompanha gastos em tempo real, define orçamentos e alertas.
+  
+Exemplo: 
+- Receber um alerta por e-mail se algum servidor estiver usando mais de 80% de memória.  
+  
+## 🧠 **Benefícios Combinados**
+  
+|Área|Benefícios Reais|
+|:---:|:---:|
+|Governança|Garante conformidade, reduz riscos, aplica regras consistentes|
+|Gerenciabilidade|Garante visibilidade, permite ação rápida e decisões baseadas em dados|
+  
+## 💼 **Aplicações em Empresas**  
 
-Azure Log Analytics: Analisa dados dos logs para encontrar problemas ou comportamentos.
+- **TI Controlada:** Evita que colaboradores criem recursos fora do padrão.
+- **Conformidade com Leis:** Aplica LGPD, GDPR, ISO sem precisar configurar tudo manualmente.
+- **Redução de Custos:** Detecta recursos não utilizados ou mal configurados.
+- **Prevenção de Incidentes:** Alertas e automações reduzem tempo de resposta e evitam prejuízos.
 
-Azure Automation: Executa tarefas repetitivas automaticamente (ex: desligar VMs à noite).
-
-Azure Advisor: Sugestões automáticas para melhorar performance, segurança e reduzir custos.
-
-Azure Cost Management + Billing: Acompanha gastos em tempo real, define orçamentos e alertas.
-
-Exemplo: Receber um alerta por e-mail se algum servidor estiver usando mais de 80% de memória.
-
-🧠 Benefícios Combinados
-Área	Benefícios Reais
-Governança	Garante conformidade, reduz riscos, aplica regras consistentes
-Gerenciabilidade	Garante visibilidade, permite ação rápida e decisões baseadas em dados
-
-💼 Aplicações em Empresas
-TI Controlada: Evita que colaboradores criem recursos fora do padrão.
-
-Conformidade com Leis: Aplica LGPD, GDPR, ISO sem precisar configurar tudo manualmente.
-
-Redução de Custos: Detecta recursos não utilizados ou mal configurados.
-
-Prevenção de Incidentes: Alertas e automações reduzem tempo de resposta e evitam prejuízos.
-
-🎯 Conclusão Profissional
+## 🎯 **Conclusão**  
+  
 Governança e Gerenciabilidade na Azure ajudam sua empresa a:
-
-Definir regras claras, com segurança e conformidade.
-
-Controlar e enxergar tudo, em tempo real.
-
-Tomar decisões baseadas em dados e automações, não em suposições.
-
-São ferramentas essenciais para escalar com segurança e inteligência, mantendo tudo sob controle — do financeiro à segurança.
-
-Se quiser, posso complementar com:
-
-Um mapa visual do ecossistema de Governança e Gerenciabilidade na Azure.
-
-Um quadro com diferenças entre Governança, Segurança e Compliance.
-
-Um exemplo prático por tipo de empresa.
+> - Definir regras claras, com segurança e conformidade.
+> - Controlar e enxergar tudo, em tempo real.
+> - Tomar decisões baseadas em dados e automações, não em suposições.
+> - São ferramentas essenciais para escalar com segurança e inteligência, mantendo tudo sob controle — do financeiro à segurança.
