@@ -1,40 +1,38 @@
-## ✅ **Benefícios da Nuvem: Escalabilidade e Elasticidade** 
+## ✅ **Benefícios da Nuvem: Escalabilidade e Elasticidade**  
+  
+> - Imagina que você tem uma loja de sorvete.  
+> - Em dias normais, você tem 2 atendentes.  
+> - Mas no verão, chega um monte de gente!  
+> - Aí você chama mais 5 ajudantes rapidinho.  
+> - Quando o movimento diminui de novo, esses ajudantes voltam pra casa.
 
-Imagina que você tem uma loja de sorvete.
-Em dias normais, você tem 2 atendentes.
-Mas no verão, chega um monte de gente! Aí você chama mais 5 ajudantes rapidinho.
-Quando o movimento diminui de novo, esses ajudantes voltam pra casa.
+*Isso é a escalabilidade e a elasticidade na nuvem!*  
+  
+**Vamos separar os dois:**  
+  
+**- Escalabilidade:** Quando a loja (o sistema) cresce ou diminui o número de funcionários (recursos) para atender mais gente.
+**- Elasticidade:**	A loja consegue fazer isso sozinha, automaticamente, sem você ter que chamar ninguém.  
+  
+**Exemplo:**  
+  
+Imagina seu videogame online: 
+- Se entra muita gente para jogar, o servidor "cresce" e chama mais ajuda.  
+- Quando só tem você e uns amigos, ele "encolhe" para gastar menos energia.
+- Isso acontece sem que você perceba, tudo sozinho. Isso é mágica da nuvem!  
+  
+## ✅ **Escalabilidade**  
+  
+- *Escalabilidade* é a capacidade de um sistema na nuvem de aumentar ou diminuir recursos computacionais (como CPU, memória ou instâncias) de acordo com a demanda.
 
-Isso é a escalabilidade e a elasticidade na nuvem!
+> **Escalabilidade Vertical (Scale-Up/Down):**  
+> - Aumenta os recursos da mesma instância.  
+> - Exemplo: Aumentar a RAM de uma VM de 8 GB para 32 GB.  
+  
+**Escalabilidade Horizontal (Scale-Out/In):**  
+> - Adiciona ou remove múltiplas instâncias.  
+> - Exemplo: Criar 10 VMs para atender muitos acessos simultâneos.  
 
-**Vamos separar os dois:**
-
-**Escalabilidade:** Quando a loja (o sistema) cresce ou diminui o número de funcionários (recursos) para atender mais gente.
-**Elasticidade:**	A loja consegue fazer isso sozinha, automaticamente, sem você ter que chamar ninguém.
-
-**Outro exemplo divertido:**
-
-> Imagina seu videogame online: 
-
-Se entra muita gente para jogar, o servidor "cresce" e chama mais ajuda.
-Quando só tem você e uns amigos, ele "encolhe" para gastar menos energia.
-Isso acontece sem que você perceba, tudo sozinho. Isso é mágica da nuvem!
-
-## ✅ **Escalabilidade**
-
-> Escalabilidade é a capacidade de um sistema na nuvem de aumentar ou diminuir recursos computacionais (como CPU, memória ou instâncias) de acordo com a demanda.
-
-**Escalabilidade Vertical (Scale-Up/Down):**
-
-Aumenta os recursos da mesma instância.
-Exemplo: Aumentar a RAM de uma VM de 8 GB para 32 GB.
-
-**Escalabilidade Horizontal (Scale-Out/In):**
-
-Adiciona ou remove múltiplas instâncias.
-Exemplo: Criar 10 VMs para atender muitos acessos simultâneos.
-
-## ✅ **Elasticidade**
+## ✅ **Elasticidade**  
 
 > Elasticidade é a capacidade do sistema de escalar automaticamente, sem intervenção manual, baseado em regras ou métricas de uso.
 
