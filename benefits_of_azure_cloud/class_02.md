@@ -31,33 +31,32 @@ Imagina seu videogame online:
 **Escalabilidade Horizontal (Scale-Out/In):**  
 > - Adiciona ou remove múltiplas instâncias.  
 > - Exemplo: Criar 10 VMs para atender muitos acessos simultâneos.  
-
+  
 ## ✅ **Elasticidade**  
-
-> Elasticidade é a capacidade do sistema de escalar automaticamente, sem intervenção manual, baseado em regras ou métricas de uso.
-
-**Autoescalonamento (Autoscaling):**
-
-Configurado por métricas (CPU, memória, tráfego).
-Quando a carga aumenta, o Azure adiciona instâncias.
-Quando a carga diminui, ele reduz automaticamente, otimizando custos.
-
+  
+- *Elasticidade* é a capacidade do sistema de escalar automaticamente, sem intervenção manual, baseado em regras ou métricas de uso.  
+  
+> **Autoescalonamento (Autoscaling):**  
+> - Configurado por métricas (CPU, memória, tráfego).  
+> - Quando a carga aumenta, o Azure adiciona instâncias.  
+> - Quando a carga diminui, ele reduz automaticamente, otimizando custos.  
+  
 **Exemplos no Azure:**
 
-| Serviço	                       | Suporte à Escalabilidade | Elasticidade                                     |
-|---|---|---|
-| Azure App Service	             | Horizontal automática	  | Sim, com autoscaling                             |
-| Azure Virtual Machines	       | Horizontal e vertical	  | Elasticidade manual (ou via scripts)             |
-| Azure Kubernetes Service (AKS) | Escala de pods e nodes	  | Altamente elástico com escalonadores automáticos |
+|Serviço|Suporte à Escalabilidade|Elasticidade|  
+|:---:|:---:|:---:|
+|Azure App Service|Horizontal automática|Sim, com autoscaling|  
+|Azure Virtual Machines	|Horizontal e vertical	|Elasticidade manual (ou via scripts)|  
+|Azure Kubernetes Service (AKS)|Escala de pods e nodes	|Altamente elástico com escalonadores automáticos|  
+  
+👍🏻 **Benefícios Diretos para Empresas**  
 
-**Benefícios Diretos para Empresas**
-
-> **Custo sob demanda:** Paga-se somente pelos recursos utilizados.     
-> **Alta performance:** Mantém desempenho mesmo com picos de tráfego.    
-> **Agilidade:** Responde rapidamente a mudanças no volume de usuários.    
-> **Melhor experiência do usuário:** Sem quedas ou lentidão em horários de pico.    
-
-**Cenário prático:**
+> **Custo sob demanda:** Paga-se somente pelos recursos utilizados.  
+> **Alta performance:** Mantém desempenho mesmo com picos de tráfego.  
+> **Agilidade:** Responde rapidamente a mudanças no volume de usuários.  
+> **Melhor experiência do usuário:** Sem quedas ou lentidão em horários de pico.  
+  
+**Cenário prático:**  
 
 Imagine um e-commerce no Azure:  
 Durante a Black Friday, o tráfego aumenta em 500%.  
