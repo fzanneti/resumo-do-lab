@@ -57,13 +57,13 @@ Imagina seu videogame online:
 > **Melhor experiência do usuário:** Sem quedas ou lentidão em horários de pico.  
   
 **Cenário prático:**  
-
-Imagine um e-commerce no Azure:  
-Durante a Black Friday, o tráfego aumenta em 500%.  
-Com autoscaling, a infraestrutura adiciona VMs (máquinas virtuais) automaticamente.  
-Ao fim do evento, os recursos são reduzidos, cortando custos.
-
-## ✅ **Custos e Otimização Relacionados à Escalabilidade e Elasticidade**  
+  
+*Imagine um e-commerce no Azure:*  
+- Durante a Black Friday, o tráfego aumenta em 500%.    
+- Com autoscaling, a infraestrutura adiciona VMs (máquinas virtuais) automaticamente.  
+- Ao fim do evento, os recursos são reduzidos, cortando custos.  
+  
+## ✅ **Custos e otimização relacionados à escalabilidade e elasticidade**  
 
 *Como antes, dividimos em duas partes:*  
 Imagina que você vai numa lanchonete.  
