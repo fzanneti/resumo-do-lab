@@ -123,32 +123,34 @@ esperados para cada serviço e as condições de reembolso caso esses níveis n�
   
 🔹 **Exemplos práticos de SLA na Azure:**  
   
-Serviço	SLA Típico	Tempo Máximo de Inatividade Permitido por Mês  
-Máquinas Virtuais com duas instâncias em Availability Set	99,95%	~22 minutos/mês  
-Azure SQL Database	99,99%	~4 minutos/mês  
-Azure App Services (em plano Standard ou superior)	99,95%	~22 minutos/mês
+|Serviço	|SLA Típico	Tempo Máximo de Inatividade |Permitido por Mês|
+|---|---|---|  
+|Máquinas Virtuais com duas instâncias em Availability Set |99,95%	|~22 minutos/mês  
+|Azure SQL Database	|99,99%	|~4 minutos/mês  
+|Azure App Services (em plano Standard ou superior)	|99,95%	|~22 minutos/mês
 
-🔹 **Benefícios práticos da alta disponibilidade via Azure** 
+🔹 **Benefícios práticos da alta disponibilidade via Azure**  
 
-Alta Resiliência: Com Availability Zones e Availability Sets, é possível isolar falhas físicas e manter aplicações online mesmo se parte da infraestrutura falhar.
-Distribuição Global: Serviços podem ser replicados automaticamente entre regiões, garantindo continuidade.
-Escalabilidade com balanceamento de carga: Distribui requisições entre várias instâncias para não sobrecarregar.
+Alta Resiliência: Com Availability Zones e Availability Sets, é possível isolar falhas físicas e manter aplicações online mesmo se parte da infraestrutura falhar.  
+Distribuição Global: Serviços podem ser replicados automaticamente entre regiões, garantindo continuidade.  
+Escalabilidade com balanceamento de carga: Distribui requisições entre várias instâncias para não sobrecarregar.  
 
-🔹 **Garantia Financeira (Service Credits)** 
+🔹 **Garantia Financeira (Service Credits)**  
 
-Se a Microsoft não cumprir o SLA, o cliente pode solicitar créditos financeiros como compensação.
-Exemplo (Azure App Service):
-Disponibilidade < 99,95% e ≥ 99,0%: Crédito de 10%
-Disponibilidade < 99,0%: Crédito de 25%
+Se a Microsoft não cumprir o SLA, o cliente pode solicitar créditos financeiros como compensação.  
 
-🔹 **Boas Práticas para Alta Disponibilidade** 
+Exemplo (Azure App Service):  
+Disponibilidade < 99,95% e ≥ 99,0%: Crédito de 10%  
+Disponibilidade < 99,0%: Crédito de 25%  
 
-Utilizar Availability Zones para redundância geográfica.
-Adotar Load Balancers para distribuir carga.
-Replicar dados em diferentes regiões com Geo-Redundant Storage (GRS).
-Configurar alertas com o Azure Monitor para detectar indisponibilidades.
+🔹 **Boas Práticas para Alta Disponibilidade**   
 
-🔹 **Conclusão** 
+Utilizar Availability Zones para redundância geográfica.  
+Adotar Load Balancers para distribuir carga.  
+Replicar dados em diferentes regiões com Geo-Redundant Storage (GRS).  
+Configurar alertas com o Azure Monitor para detectar indisponibilidades.  
+
+🔹 **Conclusão**  
 
 A alta disponibilidade aliada a SLAs claros e garantidos torna o Azure uma plataforma confiável para aplicações críticas. Empresas podem operar com segurança, sabendo que caso a 
 plataforma falhe, elas têm reembolso financeiro garantido e mecanismos robustos para garantir a continuidade dos negócios.
