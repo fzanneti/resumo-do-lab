@@ -24,7 +24,7 @@ Imagina seu videogame online:
   
 - *Escalabilidade* é a capacidade de um sistema na nuvem de aumentar ou diminuir recursos computacionais (como CPU, memória ou instâncias) de acordo com a demanda.
 
-> **Escalabilidade Vertical (Scale-Up/Down):**  
+**Escalabilidade Vertical (Scale-Up/Down):**  
 > - Aumenta os recursos da mesma instância.  
 > - Exemplo: Aumentar a RAM de uma VM de 8 GB para 32 GB.  
   
