@@ -113,7 +113,7 @@ Agora imagina que a Microsoft prometeu que o "videogame dela" — que no caso é
 
 Essa promessa é chamada de SLA, que é tipo um "juramento" que diz: “Prometemos que isso vai funcionar direitinho pelo menos 99% do tempo!”  
 
-*E se não funcionar como prometido, a Microsoft devolve parte do dinheiro, como um pedido de desculpas.*. 
+*E se não funcionar como prometido, a Microsoft devolve parte do dinheiro, como um pedido de desculpas.*  
   
 **SLA (Service Level Agreement).**  
 - É uma promessa de que o serviço vai funcionar direitinho quase sempre  
