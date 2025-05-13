@@ -1,4 +1,6 @@
-# **Criar uma máquina virtual no Azure**   https://learn.microsoft.com/pt-br/azure/virtual-machines/windows/quick-create-portal
+# **Criar uma máquina virtual no Azure**   
+
+****https://learn.microsoft.com/pt-br/azure/virtual-machines/windows/quick-create-portal
 
 **1. Acessar o portal do Azure**
 - Vá até: https://portal.azure.com
