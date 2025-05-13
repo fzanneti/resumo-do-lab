@@ -23,4 +23,6 @@ Preencha os seguintes campos:
 - **Tamanho:** clique em “Alterar tamanho” e escolha um gratuito ou de baixo custo (ex: B1s).
 - **Usuário e Senha:** crie um login administrativo para acessar a VM.
 
-![config]
+![config_1](
+
+![config_2](
