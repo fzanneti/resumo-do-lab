@@ -4,5 +4,5 @@
 - Vá até: https://portal.azure.com
 - Login com conta corporativa vinculada à assinatura.
 
-![login]()
+![login](assets/images/login.png)
 
