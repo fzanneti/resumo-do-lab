@@ -3,7 +3,7 @@
 *O que é Disponibilidade?*  
 Disponibilidade mede o tempo que um serviço está acessível e funcionando sem interrupções.
   
-*O que é a Regra dos Noves?*
+*O que é a Regra dos Noves?*  
 É uma forma de representar a confiabilidade de um serviço com números 9 repetidos, quanto mais 9s, menor a chance de falha.  
 
 ---
