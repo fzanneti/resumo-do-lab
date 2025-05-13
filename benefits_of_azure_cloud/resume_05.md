@@ -11,7 +11,7 @@ Disponibilidade mede o tempo que um serviço está acessível e funcionando sem 
 ### **Regra dos Noves: Tempo de Inatividade Permitido**
 
 |SLA (Disponibilidade)|Por Dia|Por Mês (30 dias)|Por Ano|
-|---|---|---|---|
+|:---:|:---:|:---:|:---:|
 |90% (1 nove)|2h 24min|72 horas|876 horas|
 |99% (2 noves)|14 min 24s|7h 18min|87h 36min|
 |99,9% (3 noves)|1 min 26s|43min 49s|8h 45min|
@@ -23,7 +23,7 @@ Disponibilidade mede o tempo que um serviço está acessível e funcionando sem 
 ### **Impactos de uma escolha incorreta de SLA:**  
 
 |Escolha Incorreta|Possível Impacto|
-|---|---|
+|:---:|:---:|
 |Usar SLA de 99% em sistema bancário|Perda de acesso por horas: prejuízo financeiro e reputacional|
 |Usar SLA alto para app interno pouco usado|Gastos desnecessários com infraestrutura|
 |Não considerar SLA em contrato|Você não tem direito a reembolso ou garantia se o sistema cair|  
@@ -50,7 +50,7 @@ Exemplo:
 **SLA de Durabilidade**
 
 |Tipo de Redundância|SLA (Durabilidade)|Detalhes|
-|---|---|---|
+|:---:|:---:|:---:|
 |LRS (Locally Redundant)|11 noves (99,999999999%)|Dados replicados 3 vezes no mesmo datacenter|
 |GRS (Geo-Redundant)|16 noves (99,99999999999999%)|Dados replicados em outra região geográfica|  
   
@@ -62,7 +62,7 @@ Exemplo:
 **SLA de Disponibilidade de Armazenamento**
 
 |Serviço|SLA|
-|---|---|
+|:---:|:---:|
 |Azure Blob Storage|99,9% a 99,99%|
 |Azure Files|99,99%|
 
@@ -75,7 +75,7 @@ Exemplo:
 **Impactos e Custos de Escolhas Incorretas**
 
 |Escolha Errada|Impacto|Custo Gerado|
-|---|---|---|
+|:---:|:---:|:---:|
 |Escolher LRS para backup crítico|Perda de dados em caso de desastre físico no datacenter|Perda financeira e de confiança|
 |Escolher GRS para dados temporários|Gasto desnecessário com armazenamento caro|Aumento de custo sem retorno|
 |Não considerar latência e redundância|Aplicações lentas ou com falhas de acesso|Insatisfação do cliente|
@@ -100,6 +100,8 @@ Resumo final: Boa escolha traz economia e segurança
 |Projeto escolar / Estágio|90% – 99%|LRS|Tolerância alta a falhas e menor orçamento.|Pode ficar fora do ar sem grandes prejuízos.|
 |Aplicações críticas em saúde|99,999%|GRS com failover automático|Nenhuma tolerância à falhas.|Vida e segurança dependem do sistema.|
 |Site de Portfólio pessoal|99%|LRS|Downtime ocasional não afeta diretamente o negócio.|
+
+---
 
 **Legenda rápida**
 - **LRS:** Locally Redundant Storage (3 cópias locais)
