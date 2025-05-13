@@ -86,3 +86,23 @@ Resumo final: Boa escolha traz economia e segurança
 > - A escolha do nível de SLA certo depende da importância do sistema para o negócio.
 > - Nem sempre vale pagar mais por 5 noves se 3 já são suficientes para o seu uso.
 > - Use Azure Advisor e Azure Cost Management para acompanhar e ajustar conforme necessidade.
+
+---
+
+## **Quadro de decisão – Escolha do SLA na Azure**
+
+|Tipo de Aplicação / Sistema|Nível de Disponibilidade Recomendado|Tipo de Armazenamento Recomendado|Justificativa|
+|:---:|:---:|:---:|:---:|
+|Sistema Bancário / Financeiro|99,99% ou mais|GRS ou RA-GRS|Crítico, não pode parar nem perder dados.|Redundância geográfica é essencial.|
+|E-commerce em horário comercial|99,9%|ZRS ou GRS|Deve ficar online durante vendas, mas pode ter breves pausas fora do pico.
+|Aplicativo interno de RH|99%|LRS|Uso interno tolera pequenas interrupções.|GRS seria custo desnecessário.|
+|Backup de documentos importantes|99,9% (acesso) / 16 noves (durabilidade)|GRS ou RA-GRS|Dados precisam ser preservados por anos.|Alta durabilidade é prioridade.|
+|Projeto escolar / Estágio|90% – 99%|LRS|Tolerância alta a falhas e menor orçamento.|Pode ficar fora do ar sem grandes prejuízos.|
+|Aplicações críticas em saúde|99,999%|GRS com failover automático|Nenhuma tolerância à falhas.|Vida e segurança dependem do sistema.|
+|Site de Portfólio pessoal|99%|LRS|Downtime ocasional não afeta diretamente o negócio.|
+
+**Legenda rápida**
+- **LRS:** Locally Redundant Storage (3 cópias locais)
+- **ZRS:** Zone-Redundant Storage (em múltiplas zonas da mesma região)
+- **GRS:** Geo-Redundant Storage (outra região geográfica)
+- **RA-GRS:** GRS com acesso de leitura na réplica  
