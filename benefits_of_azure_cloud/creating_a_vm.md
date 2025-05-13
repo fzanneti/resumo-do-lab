@@ -23,6 +23,6 @@ Preencha os seguintes campos:
 - **Tamanho:** clique em “Alterar tamanho” e escolha um gratuito ou de baixo custo (ex: B1s).
 - **Usuário e Senha:** crie um login administrativo para acessar a VM.
 
-![config_1](https://github.com/fzanneti/resumo-do-lab/blob/6c9db7d1927d3ade26dcce110186e5da5b9ab66e/assets/images/create_vm_part_1.png)
+![config_1]
 
-![config_2](https://github.com/fzanneti/resumo-do-lab/blob/64afd627ed47853401d6c918316c5714b091f010/assets/images/create_vm_part_2.png)
+![config_2]
