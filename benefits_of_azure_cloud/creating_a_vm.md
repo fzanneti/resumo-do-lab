@@ -12,7 +12,7 @@
 - Clique no menu esquerdo em Máquinas Virtuais.
 - Selecione + Criar > Máquina virtual.
 
-![vm](https://github.com/fzanneti/resumo-do-lab/blob/cdc455c1efe3d1c5c1b895ca50e2e065fe2ac2fc/assets/images/vm.png)
+<img src="https://github.com/fzanneti/resumo-do-lab/blob/59c5cfe5fa16f7ae111997797955d5d06ae45948/assets/images/vm.png" alt="login" width="50%">
 
 **3. Aba "Básico" – Configuração inicial**
 Preencha os seguintes campos:
