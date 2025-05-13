@@ -31,7 +31,7 @@ Preencha os seguintes campos:
 - Tipo de disco do SO: escolha SSD (mais rápido) ou HDD (mais barato).
 - Deixe o restante como padrão.
 
-![disc](https://github.com/fzanneti/resumo-do-lab/blob/3b6be95900943999a4e86bb1c1e8f41d5542bc56/assets/images/disc.png)
+![disc](https://github.com/fzanneti/resumo-do-lab/blob/main/assets%2Fimages%2Fdisc.png)
 
 **5. Aba "Rede" – Configurações de acesso**
 IP público: sim (para acessar de fora).
