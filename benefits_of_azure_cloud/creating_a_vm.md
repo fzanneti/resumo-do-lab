@@ -6,7 +6,7 @@
 - Vá até: https://portal.azure.com
 - Login com conta corporativa vinculada à assinatura.
 
-![login](https://github.com/fzanneti/resumo-do-lab/blob/dbbf72c6d6e1cfeeeb13b829de0506d3d17fc4dc/assets/images/login.png)
+<img src="[url_da_imagem.jpg](https://github.com/fzanneti/resumo-do-lab/blob/dbbf72c6d6e1cfeeeb13b829de0506d3d17fc4dc/assets/images/login.png)" alt="login" width="50%">
 
 **2. Iniciar o processo de criação da máquina**
 - Clique no menu esquerdo em Máquinas Virtuais.
