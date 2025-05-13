@@ -33,3 +33,7 @@ Preencha os seguintes campos:
 
 ![disc](https://github.com/fzanneti/resumo-do-lab/blob/3b6be95900943999a4e86bb1c1e8f41d5542bc56/assets/images/disc.png)
 
+**5. Aba "Rede" – Configurações de acesso**
+IP público: sim (para acessar de fora).
+Portas de entrada: habilite RDP (Windows) ou SSH (Linux), dependendo do sistema.
+
