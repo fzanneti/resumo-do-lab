@@ -21,7 +21,7 @@
 
 ---
   
-**PaaS (Platform as a Service - Plataforma como Serviço):**
+**PaaS (Platform as a service - Plataforma como serviço):**
 > - Agora te dão o videogame com tudo instalado, só falta você escolher o jogo e começar a brincar. Eles cuidam da parte difícil, e você só cuida do jogo.
 
 **Definição técnica:**
@@ -37,23 +37,16 @@
 
 ---
   
-**SaaS (Software como Serviço):**
+**SaaS (Software as a service - Software como serviço):**
 > - É como jogar um game online no celular, pronto para jogar, sem instalar nada. É só abrir e usar. Tudo já vem funcionando.  
 
----
+**Definição técnica:**
+> - Aplicações prontas que funcionam via navegador ou app. Não há necessidade de se preocupar com hardware, SO, ou plataforma.
 
-SaaS (Software as a Service)
+**Responsabilidades do cliente:**
+> - Apenas o uso do software.  
 
-Definição:
-Aplicações prontas que funcionam via navegador ou app. Não há necessidade de se preocupar com hardware, SO, ou plataforma.
-
-Responsabilidades do cliente:
-Apenas o uso do software.
-
-Exemplos na Azure (ou integrados com Azure):
-
-Microsoft 365
-
-Dynamics 365
-
-Outlook Online
+**Exemplos na Azure (ou integrados com Azure):**
+> - Microsoft 365
+> - Dynamics 365
+> - Outlook Online
