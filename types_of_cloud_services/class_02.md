@@ -26,3 +26,5 @@ Ou seja, cada um cuida de uma parte.
 > - Segurança de dados e configurações
 > - Gestão de usuários, senhas e permissões
 > - Padrões de uso e conformidade
+
+---
