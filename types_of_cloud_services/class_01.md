@@ -1,9 +1,10 @@
 # **Tipos de serviços de nuvem - Azure**
 
-
 ---
 
 ## **IaaS, PaaS e SaaS – Entendendo os tipos de serviço na nuvem Azure**
+
+---
 
 **IaaS (Infrastructure as a service - Infraestrutura como serviço):**
 > - É como se te dessem só o videogame e a TV, e você precisa colocar o jogo, configurar tudo e jogar. Você cuida de quase tudo.
