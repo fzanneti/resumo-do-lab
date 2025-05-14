@@ -15,7 +15,7 @@
 ---
 
 |Tipo de serviço|Responsável pela infraestrutura|Foco do cliente|Exemplo|
-|:---:|:---:|:---:|
+|:---:|:---:|:---:| 
 |IaaS|Cliente|Sistema operacional, apps, dados|VM, VNet, Discos|
 |PaaS|Azure|Códigos e dados da aplicação|Azure SQL, App Services|
 |SaaS|Azure|Apenas uso do software|Outlook, Temas, Dynamics|
