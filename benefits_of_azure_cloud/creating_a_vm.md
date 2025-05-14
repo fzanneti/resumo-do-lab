@@ -39,3 +39,4 @@ Preencha os seguintes campos:
 IP público: sim (para acessar de fora).
 Portas de entrada: habilite RDP (Windows) ou SSH (Linux), dependendo do sistema.
 
+<img src="https://github.com/fzanneti/resumo-do-lab/blob/4639841f23fc018ec3acfb43744eec28ec717e57/assets/images/network.png" alt="login" width="50%">
