@@ -1,7 +1,5 @@
 # **Modelo de responsabilidade compartilhada**
 
----
-
 **Imagina que você vai morar num prédio.**
 
 O prédio (nuvem) é cuidado pelo síndico (Azure):  
