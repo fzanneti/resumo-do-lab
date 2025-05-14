@@ -13,3 +13,6 @@
 > - Software pronto.
 
 ---
+
+|Tipo de serviço|Responsável pela infraestrutura|Foco do cliente|Exemplo|
+|:---:|:---:|:---:|
