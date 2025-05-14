@@ -24,9 +24,9 @@ Preencha os seguintes campos:
 - **Imagem:** selecione o SO desejado, ex: Windows 10 Pro ou Ubuntu 20.04 LTS.
 - **Tamanho:** clique em “Alterar tamanho” e escolha um gratuito ou de baixo custo (ex: B1s).
 - **Usuário e Senha:** crie um login administrativo para acessar a VM.
-  
-![config1](https://github.com/fzanneti/resumo-do-lab/blob/7fb517052dcee633fad0d9e28e821a2650e06bec/assets/images/create_vm_part_11.png)
-  
+
+<img src="https://github.com/fzanneti/resumo-do-lab/blob/fda933c64fdc8cd5a992e7f3ac71de99a47d964b/assets/images/create_vm_part_1.png" alt="login" width="50%">
+
 ![config2](https://github.com/fzanneti/resumo-do-lab/blob/2ef3d4658e993f8458529e5b4386c7cf60778a0e/assets/images/create_vm_part_2.png)
 
 **4. Aba "Discos" – Escolha do disco de sistema**
