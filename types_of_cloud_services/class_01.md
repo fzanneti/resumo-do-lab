@@ -1,12 +1,11 @@
-# **Tipos de Serviços de Nuvem - Azure**
+# **Tipos de serviços de nuvem - Azure**
 
 
 ---
 
-## **IaaS, PaaS e SaaS – Entendendo os Tipos de Serviço na Nuvem Azure**
+## **IaaS, PaaS e SaaS – Entendendo os tipos de serviço na nuvem Azure**
 
-**IaaS (Infrastructure as a Service - Infraestrutura como Serviço):**
- 
+**IaaS (Infrastructure as a service - Infraestrutura como serviço):**
 > - É como se te dessem só o videogame e a TV, e você precisa colocar o jogo, configurar tudo e jogar. Você cuida de quase tudo.
 
 **Definição técnica:**  
@@ -22,31 +21,26 @@
 
 ---
   
-**PaaS (Plataforma como Serviço):**
-> - Agora te dão o videogame com tudo instalado, só falta você escolher o jogo e começar a brincar. Eles cuidam da parte difícil, e você só cuida do jogo.  
+**PaaS (Platform as a Service - Plataforma como Serviço):**
+> - Agora te dão o videogame com tudo instalado, só falta você escolher o jogo e começar a brincar. Eles cuidam da parte difícil, e você só cuida do jogo.
+
+**Definição técnica:**
+> - A plataforma já vem com sistema operacional, banco de dados, e servidores configurados. Você só precisa criar e gerenciar suas aplicações.
+
+**Responsabilidades do cliente:**
+> - Código e dados da aplicação.
+
+**Exemplos na Azure:**
+> - App Service
+> - Azure SQL Database
+> - Azure Functions  
+
+---
   
 **SaaS (Software como Serviço):**
 > - É como jogar um game online no celular, pronto para jogar, sem instalar nada. É só abrir e usar. Tudo já vem funcionando.  
 
 ---
-
-PaaS (Platform as a Service)
-
-Definição:
-A plataforma já vem com sistema operacional, banco de dados, e servidores configurados. Você só precisa criar e gerenciar suas aplicações.
-
-Responsabilidades do cliente:
-Código e dados da aplicação.
-
-Exemplos na Azure:
-
-App Service
-
-Azure SQL Database
-
-Azure Functions
-
-
 
 SaaS (Software as a Service)
 
