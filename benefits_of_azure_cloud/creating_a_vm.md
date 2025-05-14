@@ -33,7 +33,7 @@ Preencha os seguintes campos:
 - Tipo de disco do SO: escolha SSD (mais rápido) ou HDD (mais barato).
 - Deixe o restante como padrão.
 
-![disc](https://github.com/fzanneti/resumo-do-lab/blob/main/assets%2Fimages%2Fdisc.png)
+<img src="https://github.com/fzanneti/resumo-do-lab/blob/f64e4b5f14e55dd789f2e57b1d31ddd31b4d7388/assets/images/create_vm_part_2.png" alt="login" width="50%">
 
 **5. Aba "Rede" – Configurações de acesso**
 IP público: sim (para acessar de fora).
