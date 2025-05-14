@@ -5,12 +5,11 @@
 
 ## **IaaS, PaaS e SaaS – Entendendo os Tipos de Serviço na Nuvem Azure**
 
-Imagina que você quer brincar de videogame, mas tem três jeitos diferentes de jogar:
-
-**IaaS (Infrastructure as a Service - Infraestrutura como Serviço):**  
+**IaaS (Infrastructure as a Service - Infraestrutura como Serviço):**
+ 
 > - É como se te dessem só o videogame e a TV, e você precisa colocar o jogo, configurar tudo e jogar. Você cuida de quase tudo.
 
-**Definição:**  
+**Definição técnica:**  
 > - Você aluga servidores, redes, e sistemas de armazenamento da nuvem, mas ainda é responsável por instalar o sistema operacional, os aplicativos e gerenciar tudo isso.
 
 **Responsabilidades do cliente:**  
