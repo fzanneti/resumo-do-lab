@@ -35,8 +35,8 @@ Preencha os seguintes campos:
 
 <img src="https://github.com/fzanneti/resumo-do-lab/blob/becbfb4fe53d7320fff9e03966d2495916bc63b5/assets/images/disc.png" alt="login" width="50%">
 
-**5. Aba "Rede" – Configurações de acesso**
-IP público: sim (para acessar de fora).
-Portas de entrada: habilite RDP (Windows) ou SSH (Linux), dependendo do sistema.
+**5. Aba "Rede" – Configurações de acesso**  
+IP público: sim (para acessar de fora).  
+Portas de entrada: habilite RDP (Windows) ou SSH (Linux), dependendo do sistema.  
 
 <img src="https://github.com/fzanneti/resumo-do-lab/blob/4639841f23fc018ec3acfb43744eec28ec717e57/assets/images/network.png" alt="login" width="50%">
