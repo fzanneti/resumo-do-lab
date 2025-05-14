@@ -1,7 +1,5 @@
 # **Tipos de serviços de nuvem - Azure**
 
----
-
 ## **IaaS, PaaS e SaaS – Entendendo os tipos de serviço na nuvem Azure**
 
 ---
