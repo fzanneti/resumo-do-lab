@@ -7,8 +7,21 @@
 
 Imagina que você quer brincar de videogame, mas tem três jeitos diferentes de jogar:
 
-**IaaS (Infraestrutura como Serviço):**  
+**IaaS (Infrastructure as a Service - Infraestrutura como Serviço):**  
 > - É como se te dessem só o videogame e a TV, e você precisa colocar o jogo, configurar tudo e jogar. Você cuida de quase tudo.
+
+**Definição:**  
+> - Você aluga servidores, redes, e sistemas de armazenamento da nuvem, mas ainda é responsável por instalar o sistema operacional, os aplicativos e gerenciar tudo isso.
+
+**Responsabilidades do cliente:**  
+> - Sistema operacional, middleware, tempo de execução, dados e aplicativos.
+
+**Exemplos na Azure:**    
+> - Máquinas Virtuais (VMs)
+> - Discos e Storage Accounts
+> - Virtual Network (VNet)
+
+---
   
 **PaaS (Plataforma como Serviço):**
 > - Agora te dão o videogame com tudo instalado, só falta você escolher o jogo e começar a brincar. Eles cuidam da parte difícil, e você só cuida do jogo.  
@@ -17,26 +30,6 @@ Imagina que você quer brincar de videogame, mas tem três jeitos diferentes de 
 > - É como jogar um game online no celular, pronto para jogar, sem instalar nada. É só abrir e usar. Tudo já vem funcionando.  
 
 ---
-
-Parte Técnica e Profissional:
-
-IaaS (Infrastructure as a Service)
-
-Definição:
-Você aluga servidores, redes, e sistemas de armazenamento da nuvem, mas ainda é responsável por instalar o sistema operacional, os aplicativos e gerenciar tudo isso.
-
-Responsabilidades do cliente:
-Sistema operacional, middleware, tempo de execução, dados e aplicativos.
-
-Exemplos na Azure:
-
-Máquinas Virtuais (VMs)
-
-Discos e Storage Accounts
-
-Virtual Network (VNet)
-
-
 
 PaaS (Platform as a Service)
 
