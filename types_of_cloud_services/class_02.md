@@ -4,7 +4,8 @@
 
 Imagina que você vai morar num prédio.
 
-**O prédio (nuvem) é cuidado pelo síndico (Azure):** > - segurança, portaria, elevador, água.
+**O prédio (nuvem) é cuidado pelo síndico (Azure):**  
+> - segurança, portaria, elevador, água.
 
 Mas dentro do seu apartamento (sua aplicação), você é o responsável: limpar, cozinhar, cuidar dos seus móveis.
 
