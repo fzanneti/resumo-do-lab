@@ -28,3 +28,13 @@ Ou seja, cada um cuida de uma parte.
 > - Padrões de uso e conformidade
 
 ---
+
+**Exemplo prático no Azure:**
+
+|Serviço|Responsabilidade Azure|Responsabilidade cliente|
+|:---:|:---:|:---:|
+|IaaS|Hardware, rede, data center|Sistema operacional, dados, apps|
+|PaaS|Infraestrutura + plataforma|Códigos e dados do app|
+|SaaS|Tudo (infra, app, dados)|Uso e controle de acesso|
+
+---
