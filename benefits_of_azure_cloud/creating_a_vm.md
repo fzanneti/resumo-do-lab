@@ -27,7 +27,7 @@ Preencha os seguintes campos:
 
 <img src="https://github.com/fzanneti/resumo-do-lab/blob/fda933c64fdc8cd5a992e7f3ac71de99a47d964b/assets/images/create_vm_part_1.png" alt="login" width="50%">
 
-![config2](https://github.com/fzanneti/resumo-do-lab/blob/2ef3d4658e993f8458529e5b4386c7cf60778a0e/assets/images/create_vm_part_2.png)
+<img src="https://github.com/fzanneti/resumo-do-lab/blob/f64e4b5f14e55dd789f2e57b1d31ddd31b4d7388/assets/images/create_vm_part_2.png" alt="login" width="50%">
 
 **4. Aba "Discos" – Escolha do disco de sistema**
 - Tipo de disco do SO: escolha SSD (mais rápido) ou HDD (mais barato).
